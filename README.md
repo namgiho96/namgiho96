@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+
+
 
 ![namgiho96 GitHub stats](https://github-readme-stats.vercel.app/api?username=namgiho96&show_icons=true&theme=radical)
 
