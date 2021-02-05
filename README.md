@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<img src="https://img.shields.io/badge/Nodejs-#339933?style=flat-square&logo=&logoColor=white"/></a>&nbsp 
 
 
 
