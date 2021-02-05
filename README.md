@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![namgiho96 GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![namgiho96 GitHub stats](https://github-readme-stats.vercel.app/api?username=namgiho96&show_icons=true&theme=radical)
 
 <!--
 **namgiho96/namgiho96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
