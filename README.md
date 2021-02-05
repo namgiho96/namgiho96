@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-<img src="https://img.shields.io/badge/Nodejs-339933?style=flat-square&logo=Nodejs&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Nodejs-339933?style=flat-square&logo=#339933&logoColor=white"/></a>&nbsp 
+
+
 
 
 
