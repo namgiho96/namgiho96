@@ -5,6 +5,7 @@
 <!-- 메시지 형식의 자기소개 --> 
 ![https://github.com/namgiho96/namgiho96/blob/main/chat.svg](https://github.com/namgiho96/namgiho96/blob/main/chat.svg)
 
+
 <!-- 테크 스택 --> 
 <!-- ### ⚙️ Tech Stack 
   <img src="https://img.shields.io/badge/Ruby on Rails-CC0000?style=flat-square&logo=Ruby on Rails&logoColor=white"/>
