@@ -35,6 +35,5 @@
 
 
 
-📜 Certificates
-
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="4a2177bc-3ed4-4ac0-a082-19f3e5434a3f" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+## 📜 Certificates
+[![AWS Certified Solutions Architect - Associate](https://github.com/user-attachments/assets/233fd521-e50a-4e5a-9e5e-9bbfa991c763)](https://www.credly.com/badges/4a2177bc-3ed4-4ac0-a082-19f3e5434a3f)
