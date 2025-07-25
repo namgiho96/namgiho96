@@ -32,8 +32,5 @@
     
 </div>
 
-
-
-
 ## 📜 Certificates
 [![AWS Certified Solutions Architect - Associate](https://github.com/user-attachments/assets/233fd521-e50a-4e5a-9e5e-9bbfa991c763)](https://www.credly.com/badges/4a2177bc-3ed4-4ac0-a082-19f3e5434a3f)
