@@ -85,10 +85,10 @@
 ## 🎯 Current Focus
 
 ```text
-🏢 Company      @openknowl
-🔭 Side project  ShoeCatch - AI 기반 신발 디자인 플랫폼
+🏢 Company       @kristin
+🔭 Side project  에이전트화
 💬 Ask me about  NestJS, AWS, Real-time Collaboration
-⚡ Fun fact      항상 재미있게 설명할수있는 개발자가 되자!
+⚡ Fun fact       항상 재미있게 설명할수있는 개발자가 되자!
 ```
 
 ---
