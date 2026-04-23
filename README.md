@@ -52,6 +52,16 @@
 
 ---
 
+## 📊 AI Usage
+
+<div align="center">
+
+[![Tokscale Stats](https://tokscale.ai/api/embed/namgiho96/svg?sort=cost&compact=1)](https://tokscale.ai/u/namgiho96)
+
+</div>
+
+---
+
 ## 📈 Contribution Graph
 
 <div align="center">
